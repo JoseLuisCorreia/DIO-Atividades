@@ -9,6 +9,7 @@ public class PrimeiroPrograma {
         System.out.println(gato);
 
         Livro livro = new Livro("Acertei", 300);
+        System.out.println("REALIZANDO TESTE");
 
 
 
